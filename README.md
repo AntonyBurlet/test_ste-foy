@@ -8,3 +8,4 @@ Edouard Couture
 Charles Philippe Warren  
 Delphine Martin  
 Antoine Masson
+Tristan Pare  
