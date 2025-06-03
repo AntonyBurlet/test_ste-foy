@@ -10,3 +10,4 @@ Delphine Martin
 Antoine Masson  
 Tristan Pare  
 M. Arlette  
+Patrick Pilote
