@@ -1,6 +1,17 @@
 # Dépôt de test pour les étudiants du cégep de Sainte-Foy
 
+
 ### Contributeurs été 2025
-M. Arlette
 
 
+
+
+William Peck  
+Blaise KAMUNTU  
+Billy Halle  
+Kevin Houle  
+Edouard Couture  
+Charles Philippe Warren  
+Delphine Martin  
+Antoine Masson
+M. Arlette  
