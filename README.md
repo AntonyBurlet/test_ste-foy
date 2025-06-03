@@ -7,3 +7,4 @@ Kevin Houle
 Edouard Couture  
 Charles Philippe Warren  
 Delphine Martin  
+Antoine Masson
